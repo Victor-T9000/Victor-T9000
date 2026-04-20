@@ -35,7 +35,7 @@ I am currently improving my skills by building real projects and contributing to
 ---
 
 ## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/](https://www.linkedin.com/in/victor-s-growschowisk-2000b3161/)   
+- LinkedIn: [[https://www.linkedin.com/](https://www.linkedin.com/in/victor-s-growschowisk-2000b3161/)   ](https://www.linkedin.com/in/victor-grow/)
 - Email: victor.growschowisk@estudante.ifto.edu.br(temp)  
 
 ---
